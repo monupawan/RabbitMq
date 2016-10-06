@@ -1,0 +1,7 @@
+name: RabbitMq Cluster
+description: |
+  RabbitMq Cluster
+version: 1.0
+category: Clustering
+maintainer: "Pawan Kumar <monu.pawan@gmail.com>"
+minimum_rancher_version: v0.59.0

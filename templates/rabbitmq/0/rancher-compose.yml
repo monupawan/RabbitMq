@@ -1,0 +1,8 @@
+.catalog:
+  name: RabbitMq Cluster
+  version: 1.0
+  description: |
+    RabbitMq Cluster.
+  minimum_rancher_version: v0.56.0
+  maintainer: "Pawan Kumar <monu.pawan@gmail.com>"
+  uuid: rq-0
